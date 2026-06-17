@@ -1,7 +1,7 @@
 const name = "tanmay"
 const age = 20
 
-console.log(`Hello my name is ${name} and my age is ${age}`);
+console.log(`Hello my name is ${name} and my age is ${age}`);  //`` by opt+₹
 
 // ${} is used to inject values 
 
